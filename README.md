@@ -1,5 +1,5 @@
 # 1950s-Baseball-Rookie-Card-Checklists
-The 1950's baseball rookie card checklist PDFs - Includes player name and card number. Also includes links to some popular card price pages on rookiecardprices.com.
+<b>The 1950's Baseball Rookie Card Checklist PDFs -</b> Includes player name and card number. Also includes links to some popular card price pages on rookiecardprices.com.
 
 Rookie Card Prices has shared these checklists with anyone who finds them helpful or would like to implement them into their project or website.
 
